@@ -1,0 +1,26 @@
+{
+"name": "FluentFl0w",
+"version": "1.0.0",
+"description": "FluentFlow is a language translation API that integrates seamlessly into applications and services",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/yanhuai61/FluentFl0w.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "yanhuai61",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
